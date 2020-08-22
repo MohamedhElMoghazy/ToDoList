@@ -1,0 +1,4 @@
+// arrange to do ignore list
+*.db
+.vscode
+
